@@ -24,7 +24,7 @@ const upload = require('../helper/storage.helper')
  *           "__v": 0
  *       }
  *   }
- * @apiSampleRequest https://vertical-backend.herokuapp.com/item/61faebf8ebd9fca50f65b010
+ * @apiSampleRequest https://vertical-backend.herokuapp.com/items/61faebf8ebd9fca50f65b010
  * @apiError (500) {json} json object with an error
  * @apiErrorExample {json} Error-response
  * Status 500 Internal Server Error

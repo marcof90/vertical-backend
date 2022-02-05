@@ -42,7 +42,7 @@ const itemController = require('../controllers/item.controller')
  *       }
  *   ]
  * @apiError (404) {json} Not Found
- * @apiError example
+ * @apiErrorExample
  * {
  *      "error": "not found"
  * }
