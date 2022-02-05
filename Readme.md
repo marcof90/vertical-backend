@@ -15,6 +15,14 @@ In the root of the project run
 
 `npm install`
 
+For development run
+
+`npm run dev`
+
+To add tests modify the files in `src/tests` and run them using
+
+`npm run test` or `npm test`
+
 ### Heroku Deploy
 
 In the root of the project run
